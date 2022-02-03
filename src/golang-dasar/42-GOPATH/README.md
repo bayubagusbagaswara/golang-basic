@@ -11,3 +11,5 @@
 3. Pada bagian System Variables, tambahkan GOPATH dan isi lokasi folder project golang kita. Intinya agar bisa dibundle jadi satu projectnya
 4. Kita bikin folder untuk project golang kita. Misal `Project Golang`
 5. Lalu didalam folder Project Golang, kita tambahkan folder namanya `src`. Nah di src itulah kita menaruh semua folder dan file tentang project golang kita
+
+   ![Gopath](img/gopath.jpg)
